@@ -13,6 +13,14 @@
  * published by the Free Software Foundation; either version 2 of
  * the License, or (at your option) any later version.
  */
+
+ /*
+ * Add the following to your project.properties file:
+ *
+ * dependencies.ParticleSoftSerial=0.0.6
+ * dependencies.SdFat=0.0.7
+ *
+ */
 #ifndef __NEXUPLOAD_H__
 #define __NEXUPLOAD_H__
 /* #include <Arduino.h> */
